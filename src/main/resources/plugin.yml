@@ -1,0 +1,4 @@
+name: TMotd
+version: '${project.version}'
+main: me.tmotd.TMotd
+api-version: 1.19

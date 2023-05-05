@@ -1,0 +1,4 @@
+name: TMotd
+version: '1.0-SNAPSHOT'
+main: me.tmotd.TMotd
+api-version: 1.19
